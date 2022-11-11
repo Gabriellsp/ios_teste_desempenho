@@ -1,13 +1,13 @@
 //
-//  ios_teste_desempenhoUITestsLaunchTests.swift
-//  ios_teste_desempenhoUITests
+//  iosTesteUITestsLaunchTests.swift
+//  iosTesteUITests
 //
-//  Created by Gabriel Luís Silva Pereira on 28/08/22.
+//  Created by Gabriel Luís Silva Pereira on 07/09/22.
 //
 
 import XCTest
 
-class ios_teste_desempenhoUITestsLaunchTests: XCTestCase {
+class iosTesteUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
