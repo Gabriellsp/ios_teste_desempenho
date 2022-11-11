@@ -24,7 +24,7 @@ class SecondPlanViewController: UIViewController {
     
     private func calculator() {
         initialTime = Date().timeIntervalSinceReferenceDate
-        var numberIteration:CLongLong=10000
+        var numberIteration:CLongLong = 10000
         for i in 0...numberIteration {
             var cosseno = cos(Double(i));
             var seno = sin(cosseno);
